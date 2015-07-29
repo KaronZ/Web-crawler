@@ -1,4 +1,7 @@
 # Web-crawler
+
+use `pip install -r requirements.txt` to install python library
+
 Introduction
 ==================
 Use Python to achieve the goal to get the data from the v2ex webstie. The data is stored in mysqldb.

@@ -1,6 +1,12 @@
 # Web-crawler
+===================
+to run this project , the following module is required:
 
-use `pip install -r requirements.txt` to install python library
+1. python-dev
+2. build-essential
+3. python-pip
+
+then use `pip install -r requirements.txt` to install python library
 
 Introduction
 ==================

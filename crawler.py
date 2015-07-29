@@ -2,8 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 import urllib2,cookielib
 import MySQLdb
-import encodings
-import sys
 
 #response=requests.get("https://www.v2ex.com",verify=False)
 #soup1=BeautifulSoup(response.text)
